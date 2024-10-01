@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nazmus Sadat
 - 👀 I’m interested in ...Web Development / App Development
-- 🌱 I’m currently learning ... C++,JAVA,JAVA SCRIPT,HTML,CSS...
+- 🌱 I’m currently learning ... JAVA SCRIPT
 - 📫 How to reach me ... nazmussadat131@gmail.com
 
 
