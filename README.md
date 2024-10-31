@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA SCRIPT**
 
-- 👀 I’m interested in **WEB DEVELOPMENT/APP DEVELOPMENT**
+- 👀 I’m interested in **Web Development/App Development**
 
 - 📫 How to reach me **nazmussadat131@gmail.com**
 
