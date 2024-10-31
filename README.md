@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmus-sadat-21&label=Profile%20views&color=0e75b6&style=flat" alt="nazmus-sadat-21" /> </p>
 
-- 🌱 I’m currently learning **JAVA SCRIPT**
+- 🌱 I’m currently learning **Java Script**
 
-- 👀 I’m interested in **WEB DEVELOPMENT/APP DEVELOPMENT**
+- 👀 I’m interested in **Web Development/App Development**
 
 - 📫 How to reach me **nazmussadat131@gmail.com**
 
