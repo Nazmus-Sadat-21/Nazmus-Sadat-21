@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Myself MD Nazmus Sadat</h1>
 <h2 align="center">I am doing BSc in Computer Science and Engineering</h2>
-<img  align="center" alt="Coding" width="80%" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
+<img  align="center" alt="Coding" width="100%" height="80%" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmus-sadat-21&label=Profile%20views&color=0e75b6&style=flat" alt="nazmus-sadat-21" /> </p>
 
