@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself MD Nazmus Sadat</h1>
+<h1 align="center">Hi 👋, Mself MD Nazmus Sadat</h1>
 <h2 align="center">I am doing BSc in Computer Science and Engineering</h2>
 <img  align="center" alt="Coding" width="100%" height="80%" border-radius="10px" style="Backgroung-color=black;" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
