@@ -1,31 +1,69 @@
-<h1 align="center">Hi 👋, Myself MD Nazmus Sadat</h1>
-<h2 align="center">I am doing BSc in Computer Science and Engineering</h2>
-<img  align="center" alt="Coding" width="100%" height="80%" border-radius="10px" style="Backgroung-color=black;" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+<h1 align="center">Hi 👋, I'm MD Nazmus Sadat</h1>
+<h3 align="center">BSc in Computer Science & Engineering | Aspiring Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmus-sadat-21&label=Profile%20views&color=0e75b6&style=flat" alt="nazmus-sadat-21" /> </p>
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👀 I’m interested in **Web Development/App Development**
-
-- 📫 How to reach me **nazmussadat131@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/nazmus-sadat-360923280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nazmus-sadat-360923280" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nazmus.sadat.351104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nazmus.sadat.351104/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nazmus_21/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nazmus_21/?hl=en" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="70%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nazmus-sadat-21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmus-sadat-21&show_icons=true&locale=en&layout=compact" alt="nazmus-sadat-21" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmus-sadat-21&show_icons=true&locale=en" alt="nazmus-sadat-21" /></p>
+### 👨‍💻 About Me
+- 🎓 Studying **Computer Science & Engineering**
+- 🌱 Currently learning **JavaScript & Modern Web Development**
+- 💡 Interested in **Web Development & App Development**
+- 🎯 Goal: Become a **Full-Stack Developer**
+- 📫 Email: **nazmussadat131@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmus-sadat-21&" alt="nazmus-sadat-21" /></p>
+---
 
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/nazmus-sadat-360923280" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://www.facebook.com/nazmus.sadat.351104" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+</a>
+<a href="https://www.instagram.com/nazmus_21" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+</p>
 
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmus-sadat-21&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmus-sadat-21&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmus-sadat-21&show_icons=true&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 What I'm Working On
+- Building web applications using **JavaScript**
+- Learning backend development (**.NET / APIs**)
+- Improving problem-solving skills
